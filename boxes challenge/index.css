@@ -1,0 +1,16 @@
+.box {
+    width: 100px;
+    height: 100px;
+    border: 2px solid black;
+    border-radius: 5px;
+    display: inline-block;
+    margin: 3%;
+}
+
+.fill-false {
+    background-color: white;
+}
+
+.fill-true {
+    background-color: black;
+}

@@ -1,0 +1,40 @@
+* {
+    font-family: 'Lato', sans-serif;
+    margin: 0%;
+}
+
+.page-header {
+    background-color: rgb(196, 255, 107);
+    color: rgb(133,205,248);
+    text-align: center;
+    padding: 1%;
+    text-shadow: 2px 2px 2px rgb(53, 53, 53);
+}
+
+.body {
+    margin: 1%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.flex-row {
+    display: flex;
+    flex-direction: row;
+    margin: 1%;
+}
+
+.flex-column {
+    display: flex;
+    flex-direction: column;
+    margin: 1%;
+}
+
+img {
+    width: 400px;
+    border-radius: 20px;
+}
+
+h6, h3, p {
+    padding: 1%;
+}
